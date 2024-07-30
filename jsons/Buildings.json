@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Akademiya",
+		"replaces": "National College",
+		"uniqueTo": "Sumeru"
+		"cost": 185,
+		"science": 5,
+		"culture": 3,
+		"happiness": 2,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Must have an owned [Jungle] within [2] tiles", "[+1 Faith] from every [Library]", "[+1 Faith] from every [University]"],
+		"requiredTech": "Philosophy"
+	},
+]

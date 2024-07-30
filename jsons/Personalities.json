@@ -1,0 +1,43 @@
+[
+ {
+      "name": "Nahida",
+	  "preferredVictoryType": "Scientific",
+     
+	 // Stats focused personalities	  
+      "production": 4,
+      "food": 8,
+      "gold": 2,
+      "science": 11,	  
+      "culture": 8,
+      "happiness": 11,
+      "faith": 4,
+	  
+      // Behavour focused personalities
+      "military": 4,
+      "aggressive": 4,
+      "declareWar": 1,
+      "commerce": 11,
+      "diplomacy": 11,
+      "loyal": 12,
+      "expansion": 5,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 2,
+          "Commerce": 4,
+          "Patronage": 8,
+          "Piety": 2,
+          "Rationalism": 12,
+          "Freedom": 11,
+          "Autocracy": 4,
+          "Order": 4
+      },
+      "civilopediaText": [
+        {
+			  "text": "The youngest of the 7 Archons, and the God of Wisdom. Nahida possess a child-like appearance and personality. But don't be fooled, she is as wise if not wiser than any human adult. Born out of the sacrifice of [REDACTED], Nahida is Sumeru's second Archon. Despite being a god, she is very forgiving and diplomatic to others who had offended her."
+		}
+      ]
+  },
+ ]

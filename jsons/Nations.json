@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Sumeru",
+		"leaderName": "Nahida",
+		"adjective": ["Sumerians"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "The Dendro Archon",
+		
+		"startIntroPart1": "Blessings be upon you Lesser Lord Kusanali, the God of Wisdom and the Dendro Archon. Sumeru was once but a barren desert in the heart of Teyvat, but under the guidance of [REDACTED], what was once a barren corner of land turned into a lush and lively forest, which later became the homeland of wisdom and knowledge. Though not all was well, the Sages, under the guidance of Grand Sage Azar and the backing of Il Dottore and the Fatui, Azar and 3 other Sages conspired to overthrow the rule on Sumeru that the late [REDACTED] entrusted to you and imprisoned you for 500 years. Fortunately, the Traveler and a group of loyal and patriotic Sumerians have saw their despicable plot and managed to free you and overthrow them along with their plans to create a false god through the [REDACTED]. Now that order has been restored, the dreams of [REDACTED] of you guiding Sumeru can finally be realized. It is now up to you to finally guide Sumeru into a new era, 500 years since her passing.",
+		"startIntroPart2": "Though the memories of [REDACTED] was forever removed from the Irminsul, she believes, that you, as her sapling shall usher the Land of Wisdom into greatness, perhaps greater than what she could ever hope for. Can you protect the sacred forests that [REDACTED] nourished? Can you fulfill her greatest wish? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "I, for so long have understood that violence can't always resolve problems, but this isn't the case for this instance.",
+		"attacked": "I know for some time already that you're harboring such thoughts against me. For that, I have a surprise already waiting just for you...",
+		"defeated": "I don't understand... where did I go wrong? I always wished we could be friends and prosper together, but... life... can be cruel...",
+		"introduction": "Nice to meet you! Hehe, I've actually been watching you for a long time already. My name's Nahida. I might look like a child, but don't be fooled: I understand this world much better than any grown-up. So... I heard so much about you, do you want to share your story about how you rule your nation? Oh I know! How about we talk about our dreams and hope for the people of this world?",
+		
+		"neutralHello": "Hello! It's been a long time! What can I do for you?",
+		"neutralLetsHearIt": ["Sure. What is it?", "I'm excited to hear it.", "Is there something I can do for you?"],
+		"neutralNo": ["Umm... that's a bit too much to ask.","Maybe some other time...", "Uhh... maybe, give it some thought?"],
+		"neutralYes": ["Hehe, Sure!","That can be arranged!","A wise offer, I accept!"],
+
+		"hateHello": "Umm... What do you need?",
+		"hateLetsHearIt": ["Let's hear it", "What do you have in mind?", "Go on, I will listen."],
+		"hateNo": ["I cannot say I would agree to it","Maybe you have something else to offer?","No."],
+		"hateYes": ["Knowledge is knowledge after all.","Your offer is irresitable.","Alright, we can agree to it."],
+		
+		"afterPeace": "'The best way to destroy an enemy is to make him a friend..' I hope one day, both of us can reach this same conclusion.",
+		"tradeRequest": "They say that: 'Alone we can do so little; together we can do so much.' For that, I wanted to share this deal with you, I hope you accept.",
+
+		"outerColor": [101,144,116],
+		"innerColor": [235,249,197],
+		"uniqueName": "Forest of Lore",
+		"uniques": ["[+1 Food] from every [Jungle]", "[+1 Food] from every [Jungle] <after discovering [Civil Service]>", "[+1 Science] from every [Temple]", "[Great Scientist] is earned [+25]% faster"],
+		"cities": ["Sumeru City", "Port Ormos", "Gandharva Ville", "Bayda", "Vilmara", "Pardis Dhyai", "Jamshidabad", "Ravansara", "Nishapora", "Indrakhet", "Lavanara", "Sahasranagar", "Yashtavan", "Ahuradara", "Samarkhet", "Arjavpur", "Aditi", "Simorghabad", "Mahadevpur", "Sitapath", "Kalashan", "Mehrangarh", "Chandrakanta", "Vishalakshi", "Zarathustra", "Khorshid"]
+		"spyNames": ["Wanderer", "Tighnari", "Cyno", "Alhaitham", "Nilou", "Kaveh", "Collei", "Faruzan", "Dori", "Layla"]
+	},
+]

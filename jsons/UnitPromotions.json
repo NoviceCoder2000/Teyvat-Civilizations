@@ -1,0 +1,6 @@
+[
+	{
+		"name": "Forest Ranger", //Only for Vanaras and subsequent upgrades
+		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>", "[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Jungle]", "Double movement in [Forest]", "Ranged attacks may be performed over obstacles"]
+	}
+]
