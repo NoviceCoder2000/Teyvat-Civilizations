@@ -1,0 +1,55 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Akademiya
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+LeaderIcons/Nahida
+  rotate: false
+  xy: 268, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Sumeru
+  rotate: false
+  xy: 4, 248
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Dendro Archon
+  rotate: false
+  xy: 734, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vanara
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Vanara
+  rotate: false
+  xy: 526, 304
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Forest Ranger
+  rotate: false
+  xy: 734, 346
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
