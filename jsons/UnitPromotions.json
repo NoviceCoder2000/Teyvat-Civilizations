@@ -1,6 +1,16 @@
 [
 	{
-		"name": "Forest Ranger", //Only for Vanaras and subsequent upgrades
+		"name": "For the Shogun!" 
+		"uniques": ["[+50]% Strength <vs [Barbarians]>", "[15]% Strength <when fighting in [Friendly] tiles>"]
+	},
+	
+	{
+		"name": "Thunderous Forgecraft" 
+		"uniques": ["[+15]% Strength <vs [Sword]>", "[+15]% Strength <vs [Archery]>", "[10]% Strength <vs [Gunpowder]>"]
+	},
+
+	{
+		"name": "Forest Ranger",
 		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>", "[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Jungle]", "Double movement in [Forest]", "Ranged attacks may be performed over obstacles"]
 	}
 ]

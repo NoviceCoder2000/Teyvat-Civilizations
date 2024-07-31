@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Inazuma",
+		"leaderName": "Raiden Shogun",
+		"adjective": ["Inazuman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "The Electro Archon",
+		
+		"startIntroPart1": "Hail to you, your Excellency. The Narukami Ogosho, the God of Thunder and sovereign of Inazuma, Raiden Shogun. Inazuma is the Land of Eternity, whom you which have been protecting for far so long. However 500 years, the loss of Makoto, your twin sister had been a devastating loss to our nation. As a result, you forced yourself to isolate yourself from the eyes of people and ruled through the Raiden Shogun to which, ruled with an iron fist. However, thanks to the intervention of the Guuiji of the Grand Narukami Shrine and the Traveler, you were enlightened from the flaws of your rule and you made the wise choice of abolishing the Sakoku and Vision Hunt Decrees that done more harm than good for our path to Eternity.",
+		"startIntroPart2": "Times are changing, and so too are the threats that plauge in and out of Inazuma, from barbarians to rising foreign empires. Your Excellency, the people of Inazuma needs a wise leader that can lead through these chaotic times. Can you build the dreams of Eternity that you and your sister dreamt of 500 years ago? Can you protect Inazuma from threats that plauge our divine nation? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "You have obstructed my preservation of Eternity for far too long. For that, you shall pay dearly for your insolence!",
+		"attacked": "Hmph, such insolent act. Very well, today, you shall learn to rue that you even dared to threaten the Eternity I have long been preserving.",
+		"defeated": "I... have been defeated? Impossible, What shall become of Inazuma now that the Eternity I have been protecting shall now be gone?",
+		"introduction": "I extend my greetings to you. In case you have yet heard, I, am the Raiden Shogun, the Archon of Electro and Sovereign of Inazuma. If you pose no desire to threaten Eternity, then I suppose we can be friends. However, should you dare of even thinking such act, then beware, for I shall punish you with my own blade.",
+		
+		"neutralHello": "Salutations. What brings you here?",
+		"neutralLetsHearIt": ["I'm listening", "You have my interst.", "Let's hear it."],
+		"neutralNo": ["Allow me to decline.", "It has room for improvement.", "Hmm... Maybe some other time."],
+		"neutralYes": ["I can accept your proposal", "Of course.", "Your words has merit, acceptable."],
+
+		"hateHello": "Speak, before I smite you down.",
+		"hateLetsHearIt": ["Speak.", "Say it.", "Talk."],
+		"hateNo": ["You can flee while you can.", "You dare mock me?", "Enough."],
+		"hateYes": ["Your words make sense.", "Very well.", "You are wiser than what you look."],
+		
+		"afterPeace": "You proven your spirit as a warrior. For that, you have earned my respect.",
+		"tradeRequest": "I believe this proposal can strongly benefit both of our people. Think wisely.",
+
+		"outerColor": [170,126,238],
+		"innerColor": [94,26,65],
+		"uniqueName": "The Islands of Thunder and Eternity",
+		"uniqueText": "+1 Culture, +1 Faith in all non-occupied cities connected to the capital.\nFaith and Culture increases by +1 everytime you enter a new era."
+		"uniques": ["[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Ancient era]>", 
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Classical era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Medieval era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Renaissance era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Industrial era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Modern era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Atomic era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Future era]>"],
+		"cities": ["Inazuma City", "Ritou", "Konda", "Higi", "Jakotsu", "Koseki", "Hiraumi", "Asase", "Chirai", "Akamatsu", "Kurohana", "Higashiyama", "Shirogane", "Kazemura", "Mizugawa", "Yukinaga", "Tatsuyama", "Nagamura", "Hoshizaki", "Hanamizu", "Kagemura", "Uminari", "Kaminari", "Ishimura", "Takamine", "Aozora", "Tsunemura", "Shizukaze"]
+		"spyNames": ["Sayu", "Shikanoin Heizou", "Yoimiya", "Kujou Sara", "Arataki Itto", "Kuki Shinobu", "Kirara", "Kamisato Ayaka", "Yae Miko",]
+	},
+	
+	{
 		"name": "Sumeru",
 		"leaderName": "Nahida",
 		"adjective": ["Sumerians"],
@@ -31,7 +76,7 @@
 		"outerColor": [101,144,116],
 		"innerColor": [235,249,197],
 		"uniqueName": "Forest of Lore",
-		"uniques": ["[+1 Food] from every [Jungle]", "[+1 Food] from every [Jungle] <after discovering [Civil Service]>", "[+1 Science] from every [Temple]", "[Great Scientist] is earned [+25]% faster"],
+		"uniques": ["[+1 Food] from every [Jungle]", "[+1 Food] from every [Forest]", "[+1 Science] from every [Temple]", "[Great Scientist] is earned [+25]% faster"],
 		"cities": ["Sumeru City", "Port Ormos", "Gandharva Ville", "Bayda", "Vilmara", "Pardis Dhyai", "Jamshidabad", "Ravansara", "Nishapora", "Indrakhet", "Lavanara", "Sahasranagar", "Yashtavan", "Ahuradara", "Samarkhet", "Arjavpur", "Aditi", "Simorghabad", "Mahadevpur", "Sitapath", "Kalashan", "Mehrangarh", "Chandrakanta", "Vishalakshi", "Zarathustra", "Khorshid"]
 		"spyNames": ["Wanderer", "Tighnari", "Cyno", "Alhaitham", "Nilou", "Kaveh", "Collei", "Faruzan", "Dori", "Layla"]
 	},

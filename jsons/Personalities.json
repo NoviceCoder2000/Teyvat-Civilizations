@@ -1,5 +1,47 @@
 [
  {
+      "name": "Raiden Shogun",
+	  "preferredVictoryType": "Cultural",
+     
+	 // Stats focused personalities	  
+      "production": 4,
+      "food": 9,
+      "gold": 2,
+      "science": 4,	  
+      "culture": 11,
+      "happiness": 6,
+      "faith": 10,
+	  
+      // Behavour focused personalities
+      "military": 9,
+      "aggressive": 4,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 6,
+      "loyal": 9,
+      "expansion": 4,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 11,
+          "Liberty": 4,
+          "Honor": 11,
+          "Commerce": 4,
+          "Patronage": 6,
+          "Piety": 11,
+          "Rationalism": 2,
+          "Freedom": 3,
+          "Autocracy": 6,
+          "Order": 10
+      },
+      "civilopediaText": [
+        {
+			  "text": "The Almighty Narukami Ogosho and the awesome yet terrible power of Thunder. She is a feared leader and warrior by both her subordinates and enemies alike, fearing to be at the receiving end of the Musuo no Hitotachi that none so far have managed to parry besides the lone descendant of the Kaedehara Clan. After losing her twin, Makoto: Ei, believed that isolating oneself can preserve all that's precious to her; that is Inazuma itself and her people."
+		}
+      ]
+  },
+
+ {
       "name": "Nahida",
 	  "preferredVictoryType": "Scientific",
      

@@ -1,15 +1,30 @@
 [
 	{
+		"name": "Swordsmith",
+		"replaces": "Forge",
+		"uniqueTo": "Inazuma",
+		"culture": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]",
+			"All newly-trained [Melee] units [in this city] receive the [Thunderous Forgecraft] promotion"]
+	},
+
+	{
 		"name": "Akademiya",
 		"replaces": "National College",
-		"uniqueTo": "Sumeru"
+		"uniqueTo": "Sumeru",
 		"cost": 185,
 		"science": 5,
 		"culture": 3,
 		"happiness": 2,
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Must have an owned [Jungle] within [2] tiles", "[+1 Faith] from every [Library]", "[+1 Faith] from every [University]"],
+		"uniques": ["Must have an owned [Jungle] within [2] tiles"],
 		"requiredTech": "Philosophy"
 	},
 ]

@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Yoriki Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Inazuma",
+		"movement": 2,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Morale", "For the Shogun!"],
+		"attackSound": "metalhit"
+	},
+
+	{
 		"name": "Vanara",
 		"unitType": "Archery",
 		"uniqueTo": "Sumeru",
