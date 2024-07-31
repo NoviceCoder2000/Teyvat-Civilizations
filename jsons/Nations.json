@@ -32,14 +32,14 @@
 		"innerColor": [94,26,65],
 		"uniqueName": "The Islands of Thunder and Eternity",
 		"uniqueText": "+1 Culture, +1 Faith in all non-occupied cities connected to the capital.\nFaith and Culture increases by +1 everytime you enter a new era."
-		"uniques": ["[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Ancient era]>", 
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Classical era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Medieval era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Renaissance era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Industrial era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Modern era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Atomic era]>",
-		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <upon entering the [Future era]>"],
+		"uniques": ["[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Ancient era]>", 
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Classical era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Medieval era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Renaissance era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <ustarting from the [Industrial era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Modern era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Atomic era]>",
+		"[+1 Culture, +1 Faith] [in all non-occupied cities] <in cities connected to the capital> <starting from the [Future era]>"],
 		"cities": ["Inazuma City", "Ritou", "Konda", "Higi", "Jakotsu", "Koseki", "Hiraumi", "Asase", "Chirai", "Akamatsu", "Kurohana", "Higashiyama", "Shirogane", "Kazemura", "Mizugawa", "Yukinaga", "Tatsuyama", "Nagamura", "Hoshizaki", "Hanamizu", "Kagemura", "Uminari", "Kaminari", "Ishimura", "Takamine", "Aozora", "Tsunemura", "Shizukaze"]
 		"spyNames": ["Sayu", "Shikanoin Heizou", "Yoimiya", "Kujou Sara", "Arataki Itto", "Kuki Shinobu", "Kirara", "Kamisato Ayaka", "Yae Miko",]
 	},
