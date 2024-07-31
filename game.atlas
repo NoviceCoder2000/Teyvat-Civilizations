@@ -1,38 +1,94 @@
 
 game.png
-size: 1024, 512
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Akademiya
   rotate: false
-  xy: 4, 40
+  xy: 606, 542
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Swordsmith
+  rotate: false
+  xy: 606, 334
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Nahida
   rotate: false
-  xy: 268, 254
+  xy: 4, 148
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
+LeaderIcons/Raiden Shogun
+  rotate: false
+  xy: 606, 750
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Inazuma
+  rotate: false
+  xy: 4, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Sumeru
   rotate: false
-  xy: 4, 248
-  size: 256, 256
-  orig: 256, 256
+  xy: 864, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Orobashi
+  rotate: false
+  xy: 4, 406
+  size: 594, 594
+  orig: 594, 594
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Anemo Archon
+  rotate: false
+  xy: 262, 148
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
 ReligionIcons/The Dendro Archon
   rotate: false
-  xy: 734, 404
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Electro Archon
+  rotate: false
+  xy: 864, 792
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Geo Archon
+  rotate: false
+  xy: 220, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vanara
+  rotate: false
+  xy: 814, 714
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yoriki Samurai
   rotate: false
   xy: 4, 4
   size: 32, 28
@@ -41,14 +97,35 @@ TileSets/FantasyHex/Units/Vanara
   index: -1
 UnitIcons/Vanara
   rotate: false
-  xy: 526, 304
+  xy: 520, 126
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Yoriki Samurai
+  rotate: false
+  xy: 728, 126
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/For the Shogun!
+  rotate: false
+  xy: 520, 348
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Forest Ranger
   rotate: false
-  xy: 734, 346
+  xy: 328, 90
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Thunderous Forgecraft
+  rotate: false
+  xy: 386, 90
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
