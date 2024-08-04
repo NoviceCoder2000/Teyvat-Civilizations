@@ -1,5 +1,38 @@
 [
 	{
+		"name": "Knight of Favonious",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Mondstadt",
+		"movement": 4,
+		"strength": 18,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Shock I", "Home Sweet Home"]
+		"attackSound": "horse"
+	},
+
+	{
+		"name": "Millelith",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Liyue",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"promotions": ["Drill I", "Evil Shall Never Prevail!"],
+		"attackSound": "metalhit"
+	},
+
+	{
 		"name": "Yoriki Samurai",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
@@ -12,6 +45,22 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"promotions": ["Morale", "For the Shogun!"],
+		"attackSound": "metalhit"
+	},
+	
+	{
+		"name": "Resistance Soldier",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Watatsumi",
+		"movement": 2,
+		"strength": 13,
+		"cost": 75,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"promotions": ["Resistance to Tyranny"],
 		"attackSound": "metalhit"
 	},
 

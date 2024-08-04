@@ -1,11 +1,93 @@
 [
 	{
+		"name": "Mondstadt",
+		"leaderName": "Jean Gunnhildr",
+		"adjective": ["Mondstadter"],
+		"startBias": ["Avoid [Forest]", "Avoid [Jungle]"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "The Anemo Archon",
+		"personality": "Jean Gunnhildr",
+		
+		"startIntroPart1": "Let the Wind Lead, Acting Grandmaster Jean, Dandelion Knight, and daughter of the honorable Gunnhildr Clan. Mondstadt is the land of the Anemo Archon, who values Freedom above anything else. This came from a story from a thousand years ago, Mondstadt were ruled by tyranny under the iron hand of Decabrian of the Old City, where people of the Old Mondstadt were never permitted to exit the city and journey beyond, for Decabrian saw this as the only way to protect his people. However, Gunnhildr, bless be her name, was one of our nation's greatest heroes as well as your ancestor. She and other men and women who sought to regain their freedom rebelled and have managed to overthrow the tyrannical rule of Decabrian. Since then, the Anemo Archon blessed our people with Freedom, to follow our own paths, and be free like the wind.",
+		"startIntroPart2": "Mondstadt had long retained its freedom, however, freedom cannot be safeguarded forever. New enemies appear within the horizon, their hearts filled with greed and lust for wealth, they are eager to conquer the lands for gold and glory. Due to this, Mondstadt must learn the ways of the world in order to preserve the freedom it had fought a thousand years ago. Acting Grandmaster Jean, can you ensure that the freedom our ancestors fought shall last? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "Your rule of an iron fist must be stopped. For I cannot allow another Decabrian rise to power.",
+		"attacked": "You may attack us, kill us, torture... but you can never take one thing: our freedom.",
+		"defeated": "Modstadt, everyone... please forgive me for letting this happen, for I have failed my duty as Mondstadt's protector...",
+		"introduction": "I am Jean, Dandelion Knight and Acting Grand Master of the Knights of Favonious. It seems the wind has fated us to meet stranger. With that, I offer my hand of friendship to you.",
+		
+		"neutralHello": "Greetings, what brings you here?",
+		"neutralLetsHearIt": ["Tell me then.", "What's in your mind?", "Go on then."],
+		"neutralNo": ["Maybe some other time.", "I shall refuse.", "Not right now."],
+		"neutralYes": ["Very good, friend.", "Of course.", "Why not?"],
+
+		"hateHello": "Hmm?",
+		"hateLetsHearIt": ["Say it.", "What?", "Don't make me wait."],
+		"hateNo": ["Unacceptable.", "Your offer is lacking.", "That cannot be done."],
+		"hateYes": ["It has merit.", "It seems reasonable.", "Fine then."],
+		
+		"afterPeace": "Too many blood were spilled. Let's hope this shall never happen again Alright?.",
+		"tradeRequest": "Greetings friend, do you find this offer interesting?",
+
+		"outerColor": [52,135,113],
+		"innerColor": [235,225,200],
+		"uniqueName": "City of Songs, Wind and Freedom",
+		"uniques": ["[+1 Happiness] per [2] social policies adopted <after adopting [Freedom]>",
+		"[+1 Happiness] per [5] population [in all non-occupied cities]",
+		"[+15]% growth [in all non-occupied cities] <while the empire is happy>"],
+		"cities": ["Mondstadt"]
+		"spyNames": ["Kaeya", "Eula", "Mika", "Venti", "Amber", "Rosaria", "Lisa", "Albedo", "Noelle", "Sucrose"]
+	},
+
+	{
+		"name": "Liyue",
+		"leaderName": "Ningguang",
+		"adjective": ["Liyuean"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "The Geo Archon",
+		"personality": "Ningguang",
+		
+		"startIntroPart1": "May Rex Lapis bestow his blessings upon you, Lady Ningguang, Tianquan of Qixing and Teyvat's wealthiest figure. As we all know, Rex Lapis had been an important figure to Liyue, setting the stones and foundation to the prosperity it enjoys today. However, during one of his Rite of Descension, Rex Lapis were killed and Liyue was plunged further into chaos after Osial was summoned by none other than Tartaglia, the 11th Harbinger of the Fatui. However, due to the combined valiance of both men and adeptus, Osial, the God of Vortex, and was once Rex Lapis' mortal foe was vanquished and order was restored to Liyue once more. It was later revealed in a dream however, that Rex Lapis is still alive, but these events were his lesson: that it is about time for Liyue to learn how to stand up for themselves and learn to live for themselves and remove yoke of dependence on his footsteps. It is also a sign that a new era ruled by mankind is necesarry for Liyue in order to prosper and grow as a nation of Teyvat.",
+		"startIntroPart2": "Now that these lessons were realized, you are now entrusted for the task of leading Liyue to a golden age shaped by our own hands instead of Rex Lapis. Lady, Ningguang, can you lead Liyue to prosperity? Can you bring greatness to Liyue without Rex Lapis? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "Liyue is better of without you, and I believe it is time to rid you from this world.",
+		"attacked": "It is not the first time my adversary underestimated me. Very well, I hope you do not disappoint.",
+		"defeated": "The stone may be still, but... I suppose even rocks cannot withstand the test of time.",
+		"introduction": "I am Ningguang, Tianquan of Qixing; in other words, one of Liyue's leaders. Do you wish to trade foreigner? Then I want you to speak with honor and honestly. After all, contract is important here in Liyue.",
+		
+		"neutralHello": "What can I help you with?",
+		"neutralLetsHearIt": ["Do you wish to trade?", "You have my interest.", "What do you have in mind?"],
+		"neutralNo": ["No.", "I'm afraid not.", "I cannot agree to it."],
+		"neutralYes": ["I like the sound of that.", "A pleasure to make this deal.", "Excellent."],
+
+		"hateHello": "Hmph. Do you come to speak to me?",
+		"hateLetsHearIt": ["What is it?", "Don't make me wait.", "Talk."],
+		"hateNo": ["Don't waste my time.", "Certainly not!", "You're joking, right?"],
+		"hateYes": ["Very well.", "A profit is a profit.", "Fine."],
+		
+		"afterPeace": "Why won't we sign a contract of agreement to withhold peace forever between two of us?",
+		"tradeRequest": "After much deliberation, I came to a conclusion that this trade shall enhance both of our positions.",
+
+		"outerColor": [232,198,96],
+		"innerColor": [59,47,46],
+		"uniqueName": "Mountains of Stone and Contracts",
+		"uniques": ["Gifts of Gold to City-States generate [+25]% more Influence",
+		"Allied City-States provide [Gold] equal to [+50]% of what they produce for themselves",
+		"[+50]% Gold from Great Merchant trade missions",
+		"[Great Merchant] is earned [+50]% faster",],
+		"cities": ["Inazuma Harbor"]
+		"spyNames": ["Yelan", "Beidou", "Ganyu", "Keqing", "Shenhe", "Zhongli", "Hu Tao", "Xinqiu", "Yanfei", "Gaming", "Xiao"]
+	},
+
+	{
 		"name": "Inazuma",
 		"leaderName": "Raiden Shogun",
 		"adjective": ["Inazuman"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "The Electro Archon",
+		"personality": "Raiden Shogun",
 		
 		"startIntroPart1": "Hail to you, your Excellency. The Narukami Ogosho, the God of Thunder and sovereign of Inazuma, Raiden Shogun. Inazuma is the Land of Eternity, whom you which have been protecting for far so long. However 500 years, the loss of Makoto, your twin sister had been a devastating loss to our nation. As a result, you forced yourself to isolate yourself from the eyes of people and ruled through the Raiden Shogun to which, ruled with an iron fist. However, thanks to the intervention of the Guuiji of the Grand Narukami Shrine and the Traveler, you were enlightened from the flaws of your rule and you made the wise choice of abolishing the Sakoku and Vision Hunt Decrees that done more harm than good for our path to Eternity.",
 		"startIntroPart2": "Times are changing, and so too are the threats that plauge in and out of Inazuma, from barbarians to rising foreign empires. Your Excellency, the people of Inazuma needs a wise leader that can lead through these chaotic times. Can you build the dreams of Eternity that you and your sister dreamt of 500 years ago? Can you protect Inazuma from threats that plauge our divine nation? Can you build a civilization that can withstand the test of time?",
@@ -45,12 +127,53 @@
 	},
 	
 	{
+		"name": "Watatsumi",
+		"leaderName": "Sangonomiya Kokomi",
+		"adjective": ["Sangonomiyan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Orobashi",
+		"personality": "Sangonomiya Kokomi",
+		
+		"startIntroPart1": "Greetings to you, your Excellency, Sangonomiya Kokomi, the Divine Priestess of Watatsumi Island. Thousands of years ago, a great Serpent named Orobashi have came to Enkanomiya, the forgotten civilization beneath the waves. Orobashi had led our people to the surface, and for the first time, saw the light of the outside world and settled on Watatsumi. However, our lands were infertile, leading to constantly suffer from famine and disease. This forced our God to fight and invaded Narukami Island, the lands that were ruled by none other than by the Raiden Shogun herself. However, our god was slain by the Electro Archon through the sword art of the 'Musou no Hitotachi', losing our deity in battle. This, as a result, created a rift betweem Narukami and Watatsumi that shall be felt even thousands of years later, clashing several times throughout our history.",
+		"startIntroPart2": "However, despite the death of our guardian deity, Orobashi's spirit remains, and even now, many still wish to exploit our homeland. Your Excellency, the time has now came. Can you protect Watatsumi just like before? Can you protect the legacy of Orobashi? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "I can't stand your aggression to others any longer. For that, I already put the strategy against you in motion.",
+		"attacked": "Hmm... don't be so sure of yourself. After all, I have a strategy just for this scenario.",
+		"defeated": "I have thought of everything... yet some things are... just doomed to fail.",
+		"introduction": "I am Sangonomiya Kokomi, the Divine Priestess of Watatsumi. As the de facto ruler of Watatsumi and as the Divine Priestess, I extend my greetings to you, kind stranger.",
+		
+		"neutralHello": "What's up?",
+		"neutralLetsHearIt": ["You may proceed?", "Any suggestions?", "What can I help you with?"],
+		"neutralNo": ["That's not good.", "Is there something else in your mind?", "It is difficult to agree."],
+		"neutralYes": ["Alright then.", "This is brilliant.", "Smart."],
+
+		"hateHello": "Hm?",
+		"hateLetsHearIt": ["Very well.", "Might as well hear it.", "Fine, say it then."],
+		"hateNo": ["That can't be right", "No.", "No... I refuse."],
+		"hateYes": ["Very well.", "Acceptable enough.", "This could work."],
+		
+		"afterPeace": "War is always a terrible thing for our people. Let's hope no tragedy shall repeat in the future.",
+		"tradeRequest": "I have calculated of everything, and I believe, this proposal shall benefit the both us.",
+
+		"outerColor": [244,194,194],
+		"innerColor": [29,41,81],
+		"uniqueName": "Flawless Strategy",
+		"uniques": ["Great General provides double combat bonus",
+		"[+15]% Strength <when fighting in [Friendly] tiles>",
+		"[+15]% Strength <in tiles adjacent to [Coast] tiles>"],
+		"cities": ["Sangonomiya Shrine", "Bourou", "Sango", "Yamata", "Kaimura", "Nagahama", "Minato", "Nagahama", "Tetsuya", "Aogami", "Kuroda", "Kazemura", "Hisano", "Namikawa", "Nakamura", "Yamata", "Hoshikawa", "Mizushima", "Shirase", "Hiragawa", "Umikage", "Hisano", "Ryujin", "Fukusaki", "Hoshino"]
+		"spyNames": ["Gorou", "Kaida Ryouma", "Yabe", "Ueno", "Kuotoku", "Yoshihisa", "Hiroaki", "Moriguchi", "Tsuneo", "Shouji"]
+	},
+	
+	{
 		"name": "Sumeru",
 		"leaderName": "Nahida",
-		"adjective": ["Sumerians"],
+		"adjective": ["Sumerian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "The Dendro Archon",
+		"personality": "Nahida",
 		
 		"startIntroPart1": "Blessings be upon you Lesser Lord Kusanali, the God of Wisdom and the Dendro Archon. Sumeru was once but a barren desert in the heart of Teyvat, but under the guidance of [REDACTED], what was once a barren corner of land turned into a lush and lively forest, which later became the homeland of wisdom and knowledge. Though not all was well, the Sages, under the guidance of Grand Sage Azar and the backing of Il Dottore and the Fatui, Azar and 3 other Sages conspired to overthrow the rule on Sumeru that the late [REDACTED] entrusted to you and imprisoned you for 500 years. Fortunately, the Traveler and a group of loyal and patriotic Sumerians have saw their despicable plot and managed to free you and overthrow them along with their plans to create a false god through the [REDACTED]. Now that order has been restored, the dreams of [REDACTED] of you guiding Sumeru can finally be realized. It is now up to you to finally guide Sumeru into a new era, 500 years since her passing.",
 		"startIntroPart2": "Though the memories of [REDACTED] was forever removed from the Irminsul, she believes, that you, as her sapling shall usher the Land of Wisdom into greatness, perhaps greater than what she could ever hope for. Can you protect the sacred forests that [REDACTED] nourished? Can you fulfill her greatest wish? Can you build a civilization that can withstand the test of time?",

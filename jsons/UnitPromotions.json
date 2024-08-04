@@ -1,13 +1,28 @@
 [
 	{
+		"name": "Evil Shall Never Prevail!"
+		"uniques": ["[+1] Sight <in [Friendly] tiles>", 
+		"[+1] Movement <in [Friendly] tiles>"]
+	}
+
+	{
 		"name": "For the Shogun!" 
-		"uniques": ["[+50]% Strength <vs [Barbarians]>", "[15]% Strength <when fighting in [Friendly] tiles>"]
+		"uniques": ["[+50]% Strength <vs [Barbarians]>", 
+		"[15]% Strength <when fighting in [Friendly] tiles>"]
 	},
 	
 	{
 		"name": "Thunderous Forgecraft" 
-		"uniques": ["[+15]% Strength <vs [Sword]>", "[+15]% Strength <vs [Archery]>", "[10]% Strength <vs [Gunpowder]>"]
+		"uniques": ["[+15]% Strength <vs [Sword]>", 
+		"[+15]% Strength <vs [Archery]>", 
+		"[10]% Strength <vs [Gunpowder]>"]
 	},
+	
+	{
+		"name": "Resistance to Tyranny"
+		"uniques": ["[+30]% Strength <when fighting units from a Civilization with more Cities than you>", 
+		"Ignores Zone of Control <when fighting in [Friendly] tiles>"]
+	}
 
 	{
 		"name": "Forest Ranger",
