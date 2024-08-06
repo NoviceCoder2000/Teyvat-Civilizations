@@ -35,7 +35,7 @@
 		"uniques": ["[+1 Happiness] per [2] social policies adopted <after adopting [Freedom]>",
 		"[+1 Happiness] per [5] population [in all non-occupied cities]",
 		"[+15]% growth [in all non-occupied cities] <while the empire is happy>"],
-		"cities": ["Mondstadt"]
+		"cities": ["Mondstadt", "Dornman Port", "Springvale", "Windfeld", "Eisenburg", "Sturmhafen", "Falkenstein", "Glanzheim", "Silberwald", "Wolfshaven", "Nebelstadt", "Adlerhorst", "Kronthal", "Drachenfels", "Lichtbach", "Waldheim", "Brisenburg", "Sonnengard", "Schattenwald", "Silbersee", "Helmgart", "Bergthal", "Eichenwald", "Hochstein", "Morgengrau", "Steinbruch", "Flussburg", "Himmelspforte"]
 		"spyNames": ["Kaeya", "Eula", "Mika", "Venti", "Amber", "Rosaria", "Lisa", "Albedo", "Noelle", "Sucrose"]
 	},
 
@@ -76,7 +76,7 @@
 		"Allied City-States provide [Gold] equal to [+50]% of what they produce for themselves",
 		"[+50]% Gold from Great Merchant trade missions",
 		"[Great Merchant] is earned [+50]% faster",],
-		"cities": ["Inazuma Harbor"]
+		"cities": ["Liyue Harbor", "Yilong Wharf", "Qiaoying Village", "Qingce Village", "Mingyun Village", "Jianning", "Fengshu", "Huashan", "Yujing", "Yanxia", "Longxi", "Baihe", "Honglu", "Lantian", "Qingshan", "Shulin", "Zhiyun", "Wuhai", "Xingtian", "Donghai", "Yanping", "Meilin", "Tianjin", "Yunlong", "Chengling", "Haoyang", "Jinxiu", "Longfeng", "Guangming", "Yushan", "Xingluo", "Fenghuang", "Lanxi", "Qingyun", "Taoling"]
 		"spyNames": ["Yelan", "Beidou", "Ganyu", "Keqing", "Shenhe", "Zhongli", "Hu Tao", "Xinqiu", "Yanfei", "Gaming", "Xiao"]
 	},
 
@@ -141,7 +141,7 @@
 		"declaringWar": "I can't stand your aggression to others any longer. For that, I already put the strategy against you in motion.",
 		"attacked": "Hmm... don't be so sure of yourself. After all, I have a strategy just for this scenario.",
 		"defeated": "I have thought of everything... yet some things are... just doomed to fail.",
-		"introduction": "I am Sangonomiya Kokomi, the Divine Priestess of Watatsumi. As the de facto ruler of Watatsumi and as the Divine Priestess, I extend my greetings to you, kind stranger.",
+		"introduction": "I am Sangonomiya Kokomi, the Divine Priestess of Watatsumi Island. As the de facto ruler of Watatsumi and as the Divine Priestess, I extend my greetings to you, kind stranger.",
 		
 		"neutralHello": "What's up?",
 		"neutralLetsHearIt": ["You may proceed?", "Any suggestions?", "What can I help you with?"],
@@ -200,7 +200,7 @@
 		"innerColor": [235,249,197],
 		"uniqueName": "Forest of Lore",
 		"uniques": ["[+1 Food] from every [Jungle]", "[+1 Food] from every [Forest]", "[+1 Science] from every [Temple]", "[Great Scientist] is earned [+25]% faster"],
-		"cities": ["Sumeru City", "Port Ormos", "Gandharva Ville", "Bayda", "Vilmara", "Pardis Dhyai", "Jamshidabad", "Ravansara", "Nishapora", "Indrakhet", "Lavanara", "Sahasranagar", "Yashtavan", "Ahuradara", "Samarkhet", "Arjavpur", "Aditi", "Simorghabad", "Mahadevpur", "Sitapath", "Kalashan", "Mehrangarh", "Chandrakanta", "Vishalakshi", "Zarathustra", "Khorshid"]
+		"cities": ["Sumeru City", "Port Ormos", "Caravan Ribat", "Gandharva Ville", "Bayda", "Vilmara Village", "Pardis Dhyai", "Jamshidabad", "Ravansara", "Nishapora", "Indrakhet", "Lavanara", "Sahasranagar", "Yashtavan", "Ahuradara", "Samarkhet", "Arjavpur", "Aditi", "Simorghabad", "Mahadevpur", "Sitapath", "Kalashan", "Mehrangarh", "Chandrakanta", "Vishalakshi", "Zarathustra", "Khorshid"]
 		"spyNames": ["Wanderer", "Tighnari", "Cyno", "Alhaitham", "Nilou", "Kaveh", "Collei", "Faruzan", "Dori", "Layla"]
 	},
 ]
