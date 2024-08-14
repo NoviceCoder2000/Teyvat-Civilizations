@@ -44,7 +44,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Morale", "For the Shogun!"],
+		"promotions": ["For the Shogun!"],
 		"attackSound": "metalhit"
 	},
 	
