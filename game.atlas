@@ -1,243 +1,243 @@
 
 game.png
-size: 2048, 2048
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Akademiya
   rotate: false
-  xy: 1706, 1259
+  xy: 4, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Bureau of Mining and Geosciences
   rotate: false
-  xy: 1188, 140
+  xy: 1294, 298
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Coral Shrine
   rotate: false
-  xy: 1448, 743
+  xy: 212, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Swordsmith
   rotate: false
-  xy: 1396, 119
+  xy: 628, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1706, 843
+  xy: 836, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Jean Gunnhildr
   rotate: false
-  xy: 1448, 1467
-  size: 575, 575
-  orig: 575, 575
+  xy: 4, 248
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
 LeaderIcons/Nahida
   rotate: false
-  xy: 1448, 1209
+  xy: 262, 248
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 LeaderIcons/Ningguang
   rotate: false
-  xy: 4, 606
-  size: 1436, 1436
-  orig: 1436, 1436
+  xy: 520, 248
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
 LeaderIcons/Raiden Shogun
   rotate: false
-  xy: 1188, 348
+  xy: 778, 248
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 LeaderIcons/Sangonomiya Kokomi
   rotate: false
-  xy: 606, 24
-  size: 574, 574
-  orig: 574, 574
+  xy: 1036, 248
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Inazuma
   rotate: false
-  xy: 1914, 1359
+  xy: 1918, 398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Liyue
   rotate: false
-  xy: 1188, 32
+  xy: 1502, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mondstadt
   rotate: false
-  xy: 1914, 1251
+  xy: 1610, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sumeru
   rotate: false
-  xy: 1914, 1143
+  xy: 1918, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Watatsumi
   rotate: false
-  xy: 1762, 319
+  xy: 1826, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Orobashi
   rotate: false
-  xy: 4, 4
-  size: 594, 594
-  orig: 594, 594
+  xy: 1718, 190
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Anemo Archon
   rotate: false
-  xy: 1448, 951
-  size: 250, 250
-  orig: 250, 250
+  xy: 1502, 82
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Dendro Archon
   rotate: false
-  xy: 1914, 1035
+  xy: 1610, 82
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Electro Archon
   rotate: false
-  xy: 1914, 927
+  xy: 1718, 82
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Geo Archon
   rotate: false
-  xy: 1654, 319
+  xy: 1826, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight of Favonious
   rotate: false
-  xy: 1656, 915
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Millelith
   rotate: false
-  xy: 1604, 291
+  xy: 1252, 212
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Resistance Soldier
   rotate: false
-  xy: 1296, 46
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vanara
   rotate: false
-  xy: 1354, 104
+  xy: 1252, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Yoriki Samurai
   rotate: false
-  xy: 1972, 891
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Knight of Favonious
   rotate: false
-  xy: 1706, 1051
+  xy: 1502, 298
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Millelith
   rotate: false
-  xy: 1448, 535
+  xy: 420, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Resistance Soldier
   rotate: false
-  xy: 1446, 327
+  xy: 1710, 298
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Vanara
   rotate: false
-  xy: 1656, 635
+  xy: 1044, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Yoriki Samurai
   rotate: false
-  xy: 1656, 427
+  xy: 1294, 90
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/For the Shogun!
   rotate: false
-  xy: 1296, 82
+  xy: 1934, 232
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Forest Ranger
   rotate: false
-  xy: 1914, 869
+  xy: 1934, 174
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Resistance to Tyranny
   rotate: false
-  xy: 1864, 785
+  xy: 1934, 116
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Thunderous Forgecraft
   rotate: false
-  xy: 1864, 727
+  xy: 1934, 58
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
