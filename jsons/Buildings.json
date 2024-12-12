@@ -54,7 +54,7 @@
 		"requiredTech": "Pottery",
 		"uniques": ["[+1 Faith] from [Ocean] tiles [in this city]",
 		"Must have an owned [Coast] within [2] tiles",
-		"Hidden when religion is disabled",]
+		"Only available <when religion is enabled>",]
 	},
 
 	{
