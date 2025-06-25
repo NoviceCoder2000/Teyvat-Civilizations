@@ -11,14 +11,14 @@ BuildingIcons/Akademiya
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Bureau of Mining and Geosciences
+BuildingIcons/Coral Shrine
   rotate: false
   xy: 1294, 298
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Coral Shrine
+BuildingIcons/Golden Chamber
   rotate: false
   xy: 212, 40
   size: 200, 200
