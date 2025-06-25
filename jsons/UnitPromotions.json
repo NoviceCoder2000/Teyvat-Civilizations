@@ -15,17 +15,18 @@
 		"name": "Thunderous Forgecraft" 
 		"uniques": ["[+15]% Strength <vs [Sword]>", 
 		"[+15]% Strength <vs [Archery]>", 
-		"[10]% Strength <vs [Gunpowder]>"]
+		"[+10]% Strength <vs [Gunpowder]>"]
 	},
 	
 	{
 		"name": "Resistance to Tyranny"
-		"uniques": ["[+30]% Strength <when fighting units from a Civilization with more Cities than you>", 
+		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>", 
 		"Ignores Zone of Control <when fighting in [Friendly] tiles>"]
 	}
 
 	{
 		"name": "Forest Ranger",
-		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>", "[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Jungle]", "Double movement in [Forest]", "Ranged attacks may be performed over obstacles"]
+		"uniques": ["[+15]% Strength <when fighting in [Jungle] tiles>", 
+		"[+15]% Strength <when fighting in [Forest] tiles>"]
 	}
 ]

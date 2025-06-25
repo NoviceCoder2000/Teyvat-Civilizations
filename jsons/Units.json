@@ -76,7 +76,7 @@
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Forest Ranger"],
+		"promotions": ["Forest Ranger", "Woodsman"],
 		"attackSound": "arrow"
 	}
 ]

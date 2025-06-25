@@ -11,21 +11,20 @@
 		"requiredTech": "Drama and Poetry"
 	},
 
-	{
-		"name": "Bureau of Mining and Geosciences",
-		"replaces": "Ironworks",
+	{ //Maybe turn this to a trade caravab related unique
+		"name": "Golden Chamber",
+		"replaces": "National Treasury",
 		"uniqueTo": "Liyue",
-		"cost": 200,
-		"production": 5,
-		"science": 1,
+		"cost": 325,
+		"gold": 8,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["[+1 Production] from every [Mines]",
-		"[+1 Science] from every [Mines] <after discovering [Chemistry]>"
-		"Double quantity of [Iron] produced",
-		"Double quantity of [Aluminum] produced", 
-		"Double quantity of [Uranium] produced"],
-		"requiredTech": "Guilds"
+		"uniques": ["Comment [Requires a Mint to build]"
+		"Allied City-States provide [Gold] equal to [+50]% of what they produce for themselves",
+		"[+50]% Gold from Great Merchant trade missions",
+		"[Great Merchant] is earned [+50]% faster"],
+		"requiredBuilding": "Mint",		
+		"requiredTech": "Currency"
 	},
 
 	{
@@ -33,7 +32,7 @@
 		"replaces": "Forge",
 		"uniqueTo": "Inazuma",
 		"culture": 2,
-		"maintenance": 0,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "Metal Casting",
@@ -46,14 +45,15 @@
 	{
 		"name": "Coral Shrine",
 		"replaces": "Shrine",
-		"uniqueTo": "Watatsumi"
+		"uniqueTo": "Watatsumi",
+		"faith": 0,
 		"culture": 1,
-		"faith": 1,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+1 Faith] from [Ocean] tiles [in this city]",
-		"Must have an owned [Coast] within [2] tiles",
+		"uniques": ["Must have an owned [Coast] within [2] tiles",
+		"[+1 Faith] from [Coast] tiles [in this city]",
+		"[+1 Faith] from [Ocean] tiles [in this city]",
 		"Only available <when religion is enabled>",]
 	},
 
@@ -61,13 +61,16 @@
 		"name": "Akademiya",
 		"replaces": "National College",
 		"uniqueTo": "Sumeru",
-		"cost": 185,
+		"cost": 400,
 		"science": 5,
-		"culture": 3,
-		"happiness": 2,
+		"culture": 1,
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Must have an owned [Jungle] within [2] tiles"],
-		"requiredTech": "Philosophy"
+		"uniques": ["Must have an owned [Jungle] within [2] tiles",
+		"Comment [Requires tech Education instead of Philosophy]",
+		"[+2 Science] from every [Scientists]",
+		"[+1 Science] from every [University]",
+		"[+1 Science] from every [Public School]"],
+		"requiredTech": "Education"
 	},
 ]
